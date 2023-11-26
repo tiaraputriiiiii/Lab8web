@@ -52,7 +52,8 @@ Untuk menjalankan MySQL Server dari menu XAMPP Control.
     ('Elektronik', 'HP OPPO Android', 'hp_oppo.jpg', 1800000, 2300000, 5);
 
     ```
-    ![img](gambar/4.png)
+   ![Screenshot 2023-11-26 153050](https://github.com/tiaraputriiiiii/Lab8web/assets/115775237/8c2080c1-37fe-4d47-be3c-af6930827c60)
+
 6. **Membuat Program CRUD 7Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)**
 
 7. **Membuat file koneksi database**

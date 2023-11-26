@@ -121,8 +121,13 @@ Untuk menjalankan MySQL Server dari menu XAMPP Control.
 ## **Result**
 
 
+
+https://github.com/tiaraputriiiiii/Lab8web/assets/115775237/4670dbc6-4cda-45af-993d-ebb438d5e2c6
+
+
 <hr>
 
-**[Back-->](#lab-8-php-database)**
+
+## *Selesai, Terima kasih*
 
     
